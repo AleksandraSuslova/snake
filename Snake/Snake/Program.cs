@@ -26,7 +26,5 @@ namespace Snake
 
             Console.ReadLine();
         }
-
-        
     }
 }

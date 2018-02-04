@@ -24,7 +24,7 @@ namespace Snake
         /// <param name="_x">координата х</param>
         /// <param name="_y">координата у</param>
         /// <param name="_sym">символ точки</param>
-        public Point(int _x, int _y, char _sym)   
+        public Point(int _x, int _y, char _sym)
         {
             x = _x;
             y = _y;
@@ -38,3 +38,4 @@ namespace Snake
         }
     }
 }
+
